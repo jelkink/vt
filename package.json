@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jelkink/vt/issues"
   },
-  "homepage": "https://github.com/jelkink/vt#readme"
+  "homepage": "https://github.com/jelkink/vt#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
 }
