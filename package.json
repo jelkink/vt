@@ -1,0 +1,19 @@
+{
+  "name": "vt",
+  "version": "0.1.0",
+  "description": "Vorto-trejnisto por multaj lingvoj.",
+  "main": "vt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelkink/vt.git"
+  },
+  "author": "Jos Elkink",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jelkink/vt/issues"
+  },
+  "homepage": "https://github.com/jelkink/vt#readme"
+}
