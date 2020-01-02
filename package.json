@@ -4,6 +4,7 @@
   "description": "Vorto-trejnisto por multaj lingvoj.",
   "main": "js/vt.js",
   "scripts": {
+    "start": "node js/vt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
